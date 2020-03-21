@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IPGeolocationApp</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="address_string">Esempio: 193.206.108.23 - www.unisannio.it</string>
+    <string name="title_text_view">Inserisci indirizzo numerico o simbolico</string>
+    <string name="title_button">Send</string>
+    <string name="title_activity_second">SecondActivity</string>
+
+
+</resources>
